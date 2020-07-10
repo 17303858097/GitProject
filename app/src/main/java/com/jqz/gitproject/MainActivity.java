@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String name="靳前志的项目";
         String sex="新增内容";
+        String age=""19;
     }
 }
